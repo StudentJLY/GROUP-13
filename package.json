@@ -1,0 +1,15 @@
+{
+  "name": "uni-shop-2",
+  "version": "1.0.0",
+  "description": "基于web前端和固定后端接口的微信电商小程序开发",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
